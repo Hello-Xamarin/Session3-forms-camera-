@@ -1,0 +1,2 @@
+C:\Program_Dev\workspace_xamarine\xamarin_msp_2\xamarin_msp_2\xamarin_msp_2.Windows\xamarin_msp_2.Windows.csproj;neutral
+C:\Program_Dev\workspace_xamarine\xamarin_msp_2\xamarin_msp_2\xamarin_msp_2\xamarin_msp_2.csproj;neutral
